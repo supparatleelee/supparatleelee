@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi there 👋,
 
-### I'm Leelee, a self-employed real estate manager who interested in technology and product development👨‍💻 I am a ux and business enthusiast who like learning & exploring various types of topics.
+### I'm Leelee, a 21-year-old self-employed real estate manager who interested in technology and product development👨‍💻 I am a ux and business enthusiast who like learning & exploring various types of topics.
 <!-- Would love to be a UX Engineer and see myself as a Product Manager in my later career.-->
 -------
 
