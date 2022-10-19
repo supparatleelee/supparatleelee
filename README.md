@@ -1,41 +1,66 @@
 <!---
-- 👋 Hi, I’m @supparatleelee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
 supparatleelee/supparatleelee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NmmUoxTjpj0CDGm1Qj/giphy.gif" width="100"/>
+</div>
+
 # Supparat Leelee 💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-supparatleelee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/supparat-leelee/)](https://www.linkedin.com/in/supparat-leelee/)
-[![Medium Badge](https://img.shields.io/badge/-@supparatleelee-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@supparatleelee/)](https://medium.com/@supparatleelee/)
-[![Gmail Badge](https://img.shields.io/badge/-supparat.lst@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:supparat.lst@gmail.com)
-[![Youtube Channel](https://img.shields.io/badge/-SPR%20LEELEE-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCRPHuNE90Xw9rkzuqkEZOrQ)](https://www.youtube.com/channel/UCRPHuNE90Xw9rkzuqkEZOrQ)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supparatleelee" alt="supparatleelee-profile-view" /> </p>
-<hr>
+[![Linkedin Badge](https://img.shields.io/badge/-supparatleelee-blue?style=flat-square&logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/supparat-leelee/)](https://www.linkedin.com/in/supparat-leelee/)
+[![Medium Badge](https://img.shields.io/badge/-@supparatleelee-03a57a?style=flat-square&labelColor=000000&logo=Medium&style=for-the-badge&link=https://medium.com/@supparatleelee/)](https://medium.com/@supparatleelee/)
+[![Gmail Badge](https://img.shields.io/badge/-supparat.lst@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:sakshamtaneja7861@gmail.com)](mailto:supparat.lst@gmail.com)
+[![Youtube Channel](https://img.shields.io/badge/-SPR%20LEELEE-c14438?style=flat-square&logo=Youtube&style=for-the-badge&link=https://www.youtube.com/channel/UCRPHuNE90Xw9rkzuqkEZOrQ)](https://www.youtube.com/channel/UCRPHuNE90Xw9rkzuqkEZOrQ)
+<img src="https://komarev.com/ghpvc/?username=supparatleelee" alt="supparatleelee-profile-view" />
 
 ## Hi there 👋,
 
-### I'm Leelee, a 21-year-old self-employed real estate manager who interested in technology and product development👨‍💻 I am a ux and business enthusiast who like learning & exploring various types of topics.
-<!-- Would love to be a UX Engineer and see myself as a Product Manager in my later career.-->
--------
+### I'm Leelee, a 21-year-old who interested in technology and product development👨‍💻 I am a ux and business enthusiast who like learning & exploring various types of topics. Would love to be a UX Engineer and see myself as a Product Manager in my later career.
 
-<!---
 ## 🧐 About
 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Communitiess
-- 👯 And Many More...
---->
+- 👩‍💻 I grew up in Thailand 🇹🇭, went to study in Singapore since I was 15-year-old 🇸🇬, and graduated from University College Dublin when I was 19-year-old 🇮🇪
+- 🔭 Started my entrepreneurial life not long after I had graduated while keep exploring and learning about Product Management, UX Design, Development.
+- 👩‍💼 Self-taught UX Engineer.
+- 🏃‍♀️ Actively participating in hackathons.
+- 🌱 And Many More...
+
+<hr>
 
 ![Supparatleelee's github stats](https://github-readme-stats.vercel.app/api?username=supparatleelee&show_icons=true)
-<br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=supparatleelee&layout=compact">
+
+<hr>
+
+## Langugaes & Technologies
+
+### Design 
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+### Front-End
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+
+### Back-End
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize"  alt="Sequelize" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+
+### Team Management & Others
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" **alt="Sourcetree" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
+</div>
