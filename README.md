@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ## 🧐 About
 
 - 👩‍💻 I grew up in Thailand 🇹🇭, went to study in Singapore since I was 15-year-old 🇸🇬, and graduated from University College Dublin when I was 19-year-old 🇮🇪
-- 🔭 Started my entrepreneurial life not long after I had graduated while keep exploring and learning about Product Management, UX Design, Development.
+- 🔭 Started my entrepreneurial life not long after I had graduated while keep exploring and learning about Product Management, UX Design and Development.
 - 👩‍💼 Self-taught UX Engineer.
 - 🏃‍♀️ Actively participating in hackathons.
 - 🌱 And Many More...
