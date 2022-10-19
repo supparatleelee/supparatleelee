@@ -15,9 +15,11 @@ You can click the Preview link to take a look at your changes.
 [![Youtube Channel](https://img.shields.io/badge/-SPR%20LEELEE-c14438?style=flat-square&logo=Youtube&style=for-the-badge&link=https://www.youtube.com/channel/UCRPHuNE90Xw9rkzuqkEZOrQ)](https://www.youtube.com/channel/UCRPHuNE90Xw9rkzuqkEZOrQ)
 <img src="https://komarev.com/ghpvc/?username=supparatleelee" alt="supparatleelee-profile-view" />
 
-## Hi there 👋,
+## Hi there, I'm Leelee 👋
 
+<!---
 ### I'm Leelee, a 21-year-old who interested in technology and product development👨‍💻 I am a ux and business enthusiast who like learning & exploring various types of topics. Would love to be a UX Engineer and see myself as a Product Manager in my later career.
+--->
 
 ## 🧐 About
 
