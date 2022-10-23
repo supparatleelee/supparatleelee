@@ -15,17 +15,17 @@ You can click the Preview link to take a look at your changes.
 [![Youtube Channel](https://img.shields.io/badge/-SPR%20LEELEE-c14438?style=flat-square&logo=Youtube&style=for-the-badge&link=https://www.youtube.com/channel/UCRPHuNE90Xw9rkzuqkEZOrQ)](https://www.youtube.com/channel/UCRPHuNE90Xw9rkzuqkEZOrQ)
 <img src="https://komarev.com/ghpvc/?username=supparatleelee" alt="supparatleelee-profile-view" />
 
-## Hi there, I'm Leelee 👋
+## Hi there👋
 
-<!---
-### I'm Leelee, a 21-year-old who interested in technology and product development👨‍💻 I am a ux and business enthusiast who like learning & exploring various types of topics. Would love to be a UX Engineer and see myself as a Product Manager in my later career.
---->
+### I'm Leelee, a 21-year-old who interested in Product, Design and Development👨‍💻 I am a UX enthusiast who love coding and like learning & exploring various types of topics. Would love to be a UX Engineer and see myself as a Product Manager in my later career.
+
 
 ## 🧐 About
 
 - 👩‍💻 I grew up in Thailand 🇹🇭, went to study in Singapore since I was 15-year-old 🇸🇬, and graduated from University College Dublin when I was 19-year-old 🇮🇪
-- 🔭 Started my entrepreneurial life not long after I had graduated while keep exploring and learning about Product Management, UX Design and Development.
-- 👩‍💼 Self-taught UX Engineer.
+- 🔭 Started my entrepreneurial life in real estate not long after I had graduated while keep exploring and learning about Product Management, UX Design and Development.
+- 💡 First knew about UX by accident when I was self-learning data analysis topics in my free time and fell in love with it ever since.
+- 👩‍💼 Self-taught UX Designer.
 - 🏃‍♀️ Actively participating in hackathons.
 - 🌱 And Many More...
 
