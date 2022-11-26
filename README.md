@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 Started my entrepreneurial life in real estate not long after I had graduated while keep exploring and learning about Product Management, UX Design and Development.
 - 💡 First knew about UX by accident when I was self-learning data analysis topics in my free time and fell in love with it ever since.
 - 👩‍💼 Self-taught UX Designer.
+- 💼 Currently being a Teaching Assistant at Software Park CodeCamp Thailand.
 - 🏃‍♀️ Actively participating in hackathons.
 - 🌱 And Many More...
 
