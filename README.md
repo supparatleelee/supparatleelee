@@ -32,11 +32,6 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-![Supparatleelee's github stats](https://github-readme-stats.vercel.app/api?username=supparatleelee&show_icons=true)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=supparatleelee&layout=compact">
-
-<hr>
-
 ## Langugaes & Technologies
 
 ### Design 
@@ -58,7 +53,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize"  alt="Sequelize" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 
 ### Team Management & Others
 <div>
@@ -67,3 +61,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" title="Sourcetree" **alt="Sourcetree" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" **alt="Vscode" width="40" height="40"/>
 </div>
+
+<hr>
+
+![Supparatleelee's github stats](https://github-readme-stats.vercel.app/api?username=supparatleelee&show_icons=true)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=supparatleelee&layout=compact">
