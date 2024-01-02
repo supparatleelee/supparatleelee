@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi there 👋
 
-### I'm Leelee, a 21-year-old who interested in Product, Design and Development👨‍💻 I am a UX enthusiast who love coding and like learning & exploring various types of topics. Would love to be a UX Engineer and see myself as a Product Manager in my later career.
+### I'm Leelee, a 22-year-old who is interested in Product, Design and Development👨‍💻 I am a UX enthusiast who loves coding and like learning & exploring various types of topics. Would love to be a UX Engineer and see myself as a Product Manager in my later career.
 
 
 ## 🧐 About
